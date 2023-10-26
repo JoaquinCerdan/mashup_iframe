@@ -1,0 +1,26 @@
+[
+  {
+    "titlePage": "Seguimiento de Eventos",
+    "label": "Home",
+    "href": "/home",
+    "target": "_self",
+    "enabled": true,
+    "filters": []
+  },
+  {
+    "titlePage": "Padre",
+    "label": "Padre",
+    "href": "/padre",
+    "target": "_self",
+    "childs": [
+      {
+        "titlePage": "Hijo",
+        "label": "Hijo",
+        "href": "/hijo",
+        "enabled": false,
+        "target": "_self",
+        "filters": []
+      }
+    ]
+  }
+]

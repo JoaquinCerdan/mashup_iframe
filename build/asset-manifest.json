@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d827c62b.css",
+    "main.js": "/static/js/main.b1523fa7.js",
+    "static/js/787.a35967f3.chunk.js": "/static/js/787.a35967f3.chunk.js",
+    "static/media/logo-misclientes.png": "/static/media/logo-misclientes.0f20714ba92148d8f9d7.png",
+    "static/media/fontello.eot?70992583": "/static/media/fontello.4642a2f9dee88278d7b8.eot",
+    "static/media/fontello.ttf?70992583": "/static/media/fontello.d498ae70ec142457f245.ttf",
+    "static/media/fontello.woff?70992583": "/static/media/fontello.65aed0368c6aa1f077a2.woff",
+    "static/media/logo-caixa.svg": "/static/media/logo-caixa.c12768fed7b1e497cff990e8619c8de0.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fontello.svg?70992583": "/static/media/fontello.f2b824d81b0baf3e180d.svg",
+    "static/media/users-solid.svg": "/static/media/users-solid.638d508daf94b1b90262d051a4b1a0e9.svg",
+    "static/media/thumbtack-solid.svg": "/static/media/thumbtack-solid.c4851a1dcd978a7a20a1d012e0c1da1b.svg",
+    "index.html": "/index.html",
+    "static/media/calendar-regular.svg": "/static/media/calendar-regular.e91e54c00c984a988bf2a34ea8871340.svg",
+    "static/media/chart-line-solid.svg": "/static/media/chart-line-solid.88575eca99747759ea957528275a6c80.svg",
+    "main.d827c62b.css.map": "/static/css/main.d827c62b.css.map",
+    "main.b1523fa7.js.map": "/static/js/main.b1523fa7.js.map",
+    "787.a35967f3.chunk.js.map": "/static/js/787.a35967f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d827c62b.css",
+    "static/js/main.b1523fa7.js"
+  ]
+}

@@ -1,0 +1,17 @@
+.page-home .container {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.page-home .container iframe {
+  width: 100%;
+  height: calc(100vh - 69px) !important;
+  border-width: 0px;
+}
+
+.page-home .graph {
+  width: 50%;
+  height: 35vh;
+}
